@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm S. Amsavarthani
-
+Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise in building scalable and secure systems. I enjoy solving complex challenges and contributing to impactful projects.
 ## About Me
 - 🌱 I’m currently working as a **Java Developer** at **eBrain Technology**.
 - 🔭 I’m focused on building scalable backend applications with **Java** and **Spring Boot**.
@@ -7,7 +7,7 @@
 - 📫 How to reach me: [s.amsavarthani@gmail.com](mailto:s.amsavarthani@gmail.com)
 
 ## 🛠️ Technologies & Tools
-- ![Java](https://img.shields.io/badge/-Java-blue) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-darkgreen) ![Hibernate](https://img.shields.io/badge/-Hibernate-000000?logo=hibernate) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JWT](https://img.shields.io/badge/-JWT-blue?logo=json-web-tokens) ![SMTP](https://img.shields.io/badge/-SMTP-lightgrey) 
+- ![Java](https://img.shields.io/badge/-Java-blue) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-darkgreen) ![Hibernate](https://img.shields.io/badge/-Hibernate-000000?logo=hibernate) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql) ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger) ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JWT](https://img.shields.io/badge/-JWT-blue?logo=json-web-tokens) ![SMTP](https://img.shields.io/badge/-SMTP-lightgrey) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white) 
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmsavarthaniSelvaraj&show_icons=true&theme=radical)
