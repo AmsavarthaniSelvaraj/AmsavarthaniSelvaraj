@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm S. Amsavarthani
+# Hi there! 👋 I'm Amsavarthani
 Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise in building scalable and secure systems. I enjoy solving complex challenges and contributing to impactful projects.
 ## About Me
 - 🌱 I’m currently working as a **Java Developer** at **eBrain Technology**.
