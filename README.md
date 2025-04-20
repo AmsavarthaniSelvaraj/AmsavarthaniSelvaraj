@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise 
 ## About Me
 - 🌱 I’m currently working as a **Java Developer** at **eBrain Technology**.
 - 🔭 I’m focused on building scalable backend applications with **Java** and **Spring Boot**.
-- 💬 Ask me about **Java**, **Spring Boot**, **Hibernate ORM**, **MySQL**, **REST APIs**,  and more!
+- 💬 Ask me about **Java**, **Spring Boot**, **Hibernate ORM**, **MySQL**, **REST APIs**, **Jsp**, **Servlet**, **Html/Css**, **Bootstrap**, **JavaScript** and more!
 - 📫 How to reach me: [s.amsavarthani@gmail.com](mailto:s.amsavarthani@gmail.com)
 
 ## 🛠️ Technologies & Tools
