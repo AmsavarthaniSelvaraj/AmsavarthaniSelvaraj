@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise 
 
 ## 🌟 Featured Projects
 
-[**Quick Receipt POS Dev**](https://github.com/your_username/quick-receipt-pos-dev):  
+- [**Quick Receipt POS Dev**](https://github.com/your_username/quick-receipt-pos-dev):  
   A **Point-of-Sale (POS)** system aimed at streamlining retail operations. The project involves advanced billing, inventory tracking, and receipt generation. I’ve worked on developing backend logic, improving performance, and ensuring secure transactions using **Spring Boot** and **Hibernate ORM**.
 
   
