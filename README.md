@@ -14,13 +14,12 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise 
 
 ## 🌟 Featured Projects
 
-- [**Tech Cart Application**](https://github.com/your_username/tech-cart-application):  
-  A comprehensive **e-commerce application** built using **Java**, **Spring Boot**, and **Hibernate ORM**. It supports features like product catalog management, secure payment processing, and user authentication with **JWT**. My contributions include designing and implementing REST APIs, optimizing database queries, and integrating **MySQL** for scalable data storage.
-
-- [**Quick Receipt POS Dev**](https://github.com/your_username/quick-receipt-pos-dev):  
+[**Quick Receipt POS Dev**](https://github.com/your_username/quick-receipt-pos-dev):  
   A **Point-of-Sale (POS)** system aimed at streamlining retail operations. The project involves advanced billing, inventory tracking, and receipt generation. I’ve worked on developing backend logic, improving performance, and ensuring secure transactions using **Spring Boot** and **Hibernate ORM**.
 
-
+  
+- [**Tech Cart Application**](https://github.com/your_username/tech-cart-application):  
+  A comprehensive **e-commerce application** built using **Java**, **Spring Boot**, and **Hibernate ORM**. It supports features like product catalog management, secure payment processing, and user authentication with **JWT**. My contributions include designing and implementing REST APIs, optimizing database queries, and integrating **MySQL** for scalable data storage.
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/amsavarthani-selvaraj-442284298)
