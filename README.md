@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Amsavarthani
 Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise in building scalable and secure systems. I enjoy solving complex challenges and contributing to impactful projects.
 ## About Me
-- 🌱 I’m currently working as a **Java Developer** at **eBrain Technology**.
 - 🔭 I’m focused on building scalable backend applications with **Java**, **Spring Boot** and **Sql**.
 - 💬 Ask me about **Java**, **Spring Boot**, **Hibernate ORM**, **MySQL**, **REST APIs**, **Jsp**, **Servlet**, **Html/Css**, **Bootstrap**, **JavaScript** and more!
 - 📫 How to reach me: [s.amsavarthani@gmail.com](mailto:s.amsavarthani@gmail.com)
@@ -20,6 +19,4 @@ Welcome to my GitHub profile! I'm a passionate Backend Developer with expertise 
 - [**Tech Cart Application**](https://github.com/your_username/tech-cart-application):  
   A comprehensive **e-commerce application** built using **Java**, **Spring Boot**, and **Hibernate ORM**. It supports features like product catalog management, secure payment processing, and user authentication with **JWT**. My contributions include designing and implementing REST APIs, optimizing database queries, and integrating **MySQL** for scalable data storage.
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amsavarthani-selvaraj-442284298)
 
